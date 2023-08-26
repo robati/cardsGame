@@ -1,0 +1,3264 @@
+fileFormatVersion: 2
+guid: 786db1db93fec8c4ebc385146e3b4005
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: UNO_cards_deck_0
+  - first:
+      213: 21300002
+    second: UNO_cards_deck_1
+  - first:
+      213: 21300004
+    second: UNO_cards_deck_2
+  - first:
+      213: 21300006
+    second: UNO_cards_deck_3
+  - first:
+      213: 21300008
+    second: UNO_cards_deck_4
+  - first:
+      213: 21300010
+    second: UNO_cards_deck_5
+  - first:
+      213: 21300012
+    second: UNO_cards_deck_6
+  - first:
+      213: 21300014
+    second: UNO_cards_deck_7
+  - first:
+      213: 21300016
+    second: UNO_cards_deck_8
+  - first:
+      213: 21300018
+    second: UNO_cards_deck_9
+  - first:
+      213: 21300020
+    second: UNO_cards_deck_10
+  - first:
+      213: 21300022
+    second: UNO_cards_deck_11
+  - first:
+      213: 21300024
+    second: UNO_cards_deck_12
+  - first:
+      213: 21300026
+    second: UNO_cards_deck_13
+  - first:
+      213: 21300028
+    second: UNO_cards_deck_14
+  - first:
+      213: 21300030
+    second: UNO_cards_deck_15
+  - first:
+      213: 21300032
+    second: UNO_cards_deck_16
+  - first:
+      213: 21300034
+    second: UNO_cards_deck_17
+  - first:
+      213: 21300036
+    second: UNO_cards_deck_18
+  - first:
+      213: 21300038
+    second: UNO_cards_deck_19
+  - first:
+      213: 21300040
+    second: UNO_cards_deck_20
+  - first:
+      213: 21300042
+    second: UNO_cards_deck_21
+  - first:
+      213: 21300044
+    second: UNO_cards_deck_22
+  - first:
+      213: 21300046
+    second: UNO_cards_deck_23
+  - first:
+      213: 21300048
+    second: UNO_cards_deck_24
+  - first:
+      213: 21300050
+    second: UNO_cards_deck_25
+  - first:
+      213: 21300052
+    second: UNO_cards_deck_26
+  - first:
+      213: 21300054
+    second: UNO_cards_deck_27
+  - first:
+      213: 21300056
+    second: UNO_cards_deck_28
+  - first:
+      213: 21300058
+    second: UNO_cards_deck_29
+  - first:
+      213: 21300060
+    second: UNO_cards_deck_30
+  - first:
+      213: 21300062
+    second: UNO_cards_deck_31
+  - first:
+      213: 21300064
+    second: UNO_cards_deck_32
+  - first:
+      213: 21300066
+    second: UNO_cards_deck_33
+  - first:
+      213: 21300068
+    second: UNO_cards_deck_34
+  - first:
+      213: 21300070
+    second: UNO_cards_deck_35
+  - first:
+      213: 21300072
+    second: UNO_cards_deck_36
+  - first:
+      213: 21300074
+    second: UNO_cards_deck_37
+  - first:
+      213: 21300076
+    second: UNO_cards_deck_38
+  - first:
+      213: 21300078
+    second: UNO_cards_deck_39
+  - first:
+      213: 21300080
+    second: UNO_cards_deck_40
+  - first:
+      213: 21300082
+    second: UNO_cards_deck_41
+  - first:
+      213: 21300084
+    second: UNO_cards_deck_42
+  - first:
+      213: 21300086
+    second: UNO_cards_deck_43
+  - first:
+      213: 21300088
+    second: UNO_cards_deck_44
+  - first:
+      213: 21300090
+    second: UNO_cards_deck_45
+  - first:
+      213: 21300092
+    second: UNO_cards_deck_46
+  - first:
+      213: 21300094
+    second: UNO_cards_deck_47
+  - first:
+      213: 21300096
+    second: UNO_cards_deck_48
+  - first:
+      213: 21300098
+    second: UNO_cards_deck_49
+  - first:
+      213: 21300100
+    second: UNO_cards_deck_50
+  - first:
+      213: 21300102
+    second: UNO_cards_deck_51
+  - first:
+      213: 21300104
+    second: UNO_cards_deck_52
+  - first:
+      213: 21300106
+    second: UNO_cards_deck_53
+  - first:
+      213: 21300108
+    second: UNO_cards_deck_54
+  - first:
+      213: 21300110
+    second: UNO_cards_deck_55
+  - first:
+      213: 21300112
+    second: UNO_cards_deck_57
+  - first:
+      213: 21300114
+    second: UNO_cards_deck_58
+  - first:
+      213: 21300116
+    second: UNO_cards_deck_59
+  - first:
+      213: 21300118
+    second: UNO_cards_deck_60
+  - first:
+      213: 21300120
+    second: UNO_cards_deck_61
+  - first:
+      213: 21300122
+    second: UNO_cards_deck_62
+  - first:
+      213: 21300124
+    second: UNO_cards_deck_63
+  - first:
+      213: 21300126
+    second: UNO_cards_deck_64
+  - first:
+      213: 21300128
+    second: UNO_cards_deck_65
+  - first:
+      213: 21300130
+    second: UNO_cards_deck_66
+  - first:
+      213: 21300132
+    second: UNO_cards_deck_67
+  - first:
+      213: 21300134
+    second: UNO_cards_deck_68
+  - first:
+      213: 21300136
+    second: UNO_cards_deck_69
+  - first:
+      213: 21300138
+    second: UNO_cards_deck_71
+  - first:
+      213: 21300140
+    second: UNO_cards_deck_72
+  - first:
+      213: 21300142
+    second: UNO_cards_deck_73
+  - first:
+      213: 21300144
+    second: UNO_cards_deck_74
+  - first:
+      213: 21300146
+    second: UNO_cards_deck_75
+  - first:
+      213: 21300148
+    second: UNO_cards_deck_76
+  - first:
+      213: 21300150
+    second: UNO_cards_deck_77
+  - first:
+      213: 21300152
+    second: UNO_cards_deck_78
+  - first:
+      213: 21300154
+    second: UNO_cards_deck_79
+  - first:
+      213: 21300156
+    second: UNO_cards_deck_80
+  - first:
+      213: 21300158
+    second: UNO_cards_deck_81
+  - first:
+      213: 21300160
+    second: UNO_cards_deck_82
+  - first:
+      213: 21300162
+    second: UNO_cards_deck_83
+  - first:
+      213: 21300164
+    second: UNO_cards_deck_85
+  - first:
+      213: 21300166
+    second: UNO_cards_deck_86
+  - first:
+      213: 21300168
+    second: UNO_cards_deck_87
+  - first:
+      213: 21300170
+    second: UNO_cards_deck_88
+  - first:
+      213: 21300172
+    second: UNO_cards_deck_89
+  - first:
+      213: 21300174
+    second: UNO_cards_deck_90
+  - first:
+      213: 21300176
+    second: UNO_cards_deck_91
+  - first:
+      213: 21300178
+    second: UNO_cards_deck_92
+  - first:
+      213: 21300180
+    second: UNO_cards_deck_93
+  - first:
+      213: 21300182
+    second: UNO_cards_deck_94
+  - first:
+      213: 21300184
+    second: UNO_cards_deck_95
+  - first:
+      213: 21300186
+    second: UNO_cards_deck_96
+  - first:
+      213: 21300188
+    second: UNO_cards_deck_97
+  - first:
+      213: 21300190
+    second: UNO_cards_deck_99
+  - first:
+      213: 21300192
+    second: UNO_cards_deck_100
+  - first:
+      213: 21300194
+    second: UNO_cards_deck_101
+  - first:
+      213: 21300196
+    second: UNO_cards_deck_102
+  - first:
+      213: 21300198
+    second: UNO_cards_deck_103
+  - first:
+      213: 21300200
+    second: UNO_cards_deck_104
+  - first:
+      213: 21300202
+    second: UNO_cards_deck_105
+  - first:
+      213: 21300204
+    second: UNO_cards_deck_106
+  - first:
+      213: 21300206
+    second: UNO_cards_deck_107
+  - first:
+      213: 21300208
+    second: UNO_cards_deck_108
+  - first:
+      213: 21300210
+    second: UNO_cards_deck_109
+  - first:
+      213: 21300212
+    second: UNO_cards_deck_110
+  - first:
+      213: 21300214
+    second: UNO_cards_deck_111
+  - first:
+      213: 21300216
+    second: UNO_0
+  - first:
+      213: 21300218
+    second: UNO_1
+  - first:
+      213: 21300220
+    second: UNO_2
+  - first:
+      213: 21300222
+    second: UNO_3
+  - first:
+      213: 21300224
+    second: UNO_4
+  - first:
+      213: 21300226
+    second: UNO_5
+  - first:
+      213: 21300228
+    second: UNO_6
+  - first:
+      213: 21300230
+    second: UNO_7
+  - first:
+      213: 21300232
+    second: UNO_8
+  - first:
+      213: 21300234
+    second: UNO_9
+  - first:
+      213: 21300236
+    second: UNO_10
+  - first:
+      213: 21300238
+    second: UNO_11
+  - first:
+      213: 21300240
+    second: UNO_12
+  - first:
+      213: 21300242
+    second: UNO_13
+  - first:
+      213: 21300244
+    second: UNO_14
+  - first:
+      213: 21300246
+    second: UNO_15
+  - first:
+      213: 21300248
+    second: UNO_16
+  - first:
+      213: 21300250
+    second: UNO_17
+  - first:
+      213: 21300252
+    second: UNO_18
+  - first:
+      213: 21300254
+    second: UNO_19
+  - first:
+      213: 21300256
+    second: UNO_20
+  - first:
+      213: 21300258
+    second: UNO_21
+  - first:
+      213: 21300260
+    second: UNO_22
+  - first:
+      213: 21300262
+    second: UNO_23
+  - first:
+      213: 21300264
+    second: UNO_24
+  - first:
+      213: 21300266
+    second: UNO_25
+  - first:
+      213: 21300268
+    second: UNO_26
+  - first:
+      213: 21300270
+    second: UNO_27
+  - first:
+      213: 21300272
+    second: UNO_28
+  - first:
+      213: 21300274
+    second: UNO_29
+  - first:
+      213: 21300276
+    second: UNO_30
+  - first:
+      213: 21300278
+    second: UNO_31
+  - first:
+      213: 21300280
+    second: UNO_32
+  - first:
+      213: 21300282
+    second: UNO_33
+  - first:
+      213: 21300284
+    second: UNO_34
+  - first:
+      213: 21300286
+    second: UNO_35
+  - first:
+      213: 21300288
+    second: UNO_36
+  - first:
+      213: 21300290
+    second: UNO_37
+  - first:
+      213: 21300292
+    second: UNO_38
+  - first:
+      213: 21300294
+    second: UNO_39
+  - first:
+      213: 21300296
+    second: UNO_40
+  - first:
+      213: 21300298
+    second: UNO_41
+  - first:
+      213: 21300300
+    second: UNO_42
+  - first:
+      213: 21300302
+    second: UNO_43
+  - first:
+      213: 21300304
+    second: UNO_44
+  - first:
+      213: 21300306
+    second: UNO_45
+  - first:
+      213: 21300308
+    second: UNO_46
+  - first:
+      213: 21300310
+    second: UNO_47
+  - first:
+      213: 21300312
+    second: UNO_48
+  - first:
+      213: 21300314
+    second: UNO_49
+  - first:
+      213: 21300316
+    second: UNO_50
+  - first:
+      213: 21300318
+    second: UNO_51
+  - first:
+      213: 21300320
+    second: UNO_52
+  - first:
+      213: 21300322
+    second: UNO_53
+  - first:
+      213: 21300324
+    second: UNO_54
+  - first:
+      213: 21300326
+    second: UNO_55
+  - first:
+      213: 21300328
+    second: UNO_57
+  - first:
+      213: 21300330
+    second: UNO_58
+  - first:
+      213: 21300332
+    second: UNO_59
+  - first:
+      213: 21300334
+    second: UNO_60
+  - first:
+      213: 21300336
+    second: UNO_61
+  - first:
+      213: 21300338
+    second: UNO_62
+  - first:
+      213: 21300340
+    second: UNO_63
+  - first:
+      213: 21300342
+    second: UNO_64
+  - first:
+      213: 21300344
+    second: UNO_65
+  - first:
+      213: 21300346
+    second: UNO_66
+  - first:
+      213: 21300348
+    second: UNO_67
+  - first:
+      213: 21300350
+    second: UNO_68
+  - first:
+      213: 21300352
+    second: UNO_69
+  - first:
+      213: 21300354
+    second: UNO_71
+  - first:
+      213: 21300356
+    second: UNO_72
+  - first:
+      213: 21300358
+    second: UNO_73
+  - first:
+      213: 21300360
+    second: UNO_74
+  - first:
+      213: 21300362
+    second: UNO_75
+  - first:
+      213: 21300364
+    second: UNO_76
+  - first:
+      213: 21300366
+    second: UNO_77
+  - first:
+      213: 21300368
+    second: UNO_78
+  - first:
+      213: 21300370
+    second: UNO_79
+  - first:
+      213: 21300372
+    second: UNO_80
+  - first:
+      213: 21300374
+    second: UNO_81
+  - first:
+      213: 21300376
+    second: UNO_82
+  - first:
+      213: 21300378
+    second: UNO_83
+  - first:
+      213: 21300380
+    second: UNO_85
+  - first:
+      213: 21300382
+    second: UNO_86
+  - first:
+      213: 21300384
+    second: UNO_87
+  - first:
+      213: 21300386
+    second: UNO_88
+  - first:
+      213: 21300388
+    second: UNO_89
+  - first:
+      213: 21300390
+    second: UNO_90
+  - first:
+      213: 21300392
+    second: UNO_91
+  - first:
+      213: 21300394
+    second: UNO_92
+  - first:
+      213: 21300396
+    second: UNO_93
+  - first:
+      213: 21300398
+    second: UNO_94
+  - first:
+      213: 21300400
+    second: UNO_95
+  - first:
+      213: 21300402
+    second: UNO_96
+  - first:
+      213: 21300404
+    second: UNO_97
+  - first:
+      213: 21300406
+    second: UNO_99
+  - first:
+      213: 21300408
+    second: UNO_100
+  - first:
+      213: 21300410
+    second: UNO_101
+  - first:
+      213: 21300412
+    second: UNO_102
+  - first:
+      213: 21300414
+    second: UNO_103
+  - first:
+      213: 21300416
+    second: UNO_104
+  - first:
+      213: 21300418
+    second: UNO_105
+  - first:
+      213: 21300420
+    second: UNO_106
+  - first:
+      213: 21300422
+    second: UNO_107
+  - first:
+      213: 21300424
+    second: UNO_108
+  - first:
+      213: 21300426
+    second: UNO_109
+  - first:
+      213: 21300428
+    second: UNO_110
+  - first:
+      213: 21300430
+    second: UNO_111
+  - first:
+      213: 21300432
+    second: UNO_56
+  - first:
+      213: 21300434
+    second: UNO_70
+  - first:
+      213: 21300436
+    second: UNO_84
+  - first:
+      213: 21300438
+    second: UNO_98
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 36
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UNO_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2522
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2522
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2522
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_3
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2522
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_4
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2522
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_5
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2522
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_6
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2522
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_7
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2522
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_8
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2522
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_9
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2522
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_10
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2522
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_11
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 2522
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_12
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2522
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_13
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 2522
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21405410000000000800000000000000
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2162
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41405410000000000800000000000000
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2162
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61405410000000000800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2162
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81405410000000000800000000000000
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_17
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2162
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1405410000000000800000000000000
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_18
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2162
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1405410000000000800000000000000
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_19
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2162
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1405410000000000800000000000000
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_20
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2162
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02405410000000000800000000000000
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_21
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2162
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22405410000000000800000000000000
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_22
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2162
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42405410000000000800000000000000
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_23
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2162
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62405410000000000800000000000000
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_24
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2162
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82405410000000000800000000000000
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_25
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 2162
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2405410000000000800000000000000
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_26
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2162
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2405410000000000800000000000000
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_27
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 2162
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2405410000000000800000000000000
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1802
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03405410000000000800000000000000
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1802
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23405410000000000800000000000000
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_30
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1802
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43405410000000000800000000000000
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_31
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1802
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63405410000000000800000000000000
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_32
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1802
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83405410000000000800000000000000
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_33
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1802
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3405410000000000800000000000000
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_34
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1802
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3405410000000000800000000000000
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_35
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1802
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3405410000000000800000000000000
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_36
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1802
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04405410000000000800000000000000
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_37
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1802
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24405410000000000800000000000000
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_38
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1802
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44405410000000000800000000000000
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_39
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 1802
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64405410000000000800000000000000
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_40
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1802
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84405410000000000800000000000000
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_41
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1802
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4405410000000000800000000000000
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1442
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4405410000000000800000000000000
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1442
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4405410000000000800000000000000
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_44
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1442
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05405410000000000800000000000000
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_45
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1442
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25405410000000000800000000000000
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_46
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1442
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45405410000000000800000000000000
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_47
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1442
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65405410000000000800000000000000
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_48
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1442
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85405410000000000800000000000000
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_49
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1442
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5405410000000000800000000000000
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_50
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1442
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5405410000000000800000000000000
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_51
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1442
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5405410000000000800000000000000
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_52
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1442
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06405410000000000800000000000000
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_53
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 1442
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26405410000000000800000000000000
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_54
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1442
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46405410000000000800000000000000
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_55
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1442
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66405410000000000800000000000000
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d405410000000000800000000000000
+      internalID: 21300432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_57
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1082
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86405410000000000800000000000000
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_58
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1082
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6405410000000000800000000000000
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1082
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6405410000000000800000000000000
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_60
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1082
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6405410000000000800000000000000
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_61
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1082
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07405410000000000800000000000000
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_62
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1082
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27405410000000000800000000000000
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_63
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1082
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47405410000000000800000000000000
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_64
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1082
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67405410000000000800000000000000
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_65
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1082
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87405410000000000800000000000000
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_66
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1082
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7405410000000000800000000000000
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_67
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 1082
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7405410000000000800000000000000
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_68
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1082
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7405410000000000800000000000000
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_69
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1082
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08405410000000000800000000000000
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 722
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d405410000000000800000000000000
+      internalID: 21300434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_71
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 722
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28405410000000000800000000000000
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_72
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 722
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48405410000000000800000000000000
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_73
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 722
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68405410000000000800000000000000
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_74
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 722
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88405410000000000800000000000000
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_75
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 722
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8405410000000000800000000000000
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_76
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 722
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8405410000000000800000000000000
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_77
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 722
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8405410000000000800000000000000
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_78
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 722
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09405410000000000800000000000000
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_79
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 722
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29405410000000000800000000000000
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_80
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 722
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49405410000000000800000000000000
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_81
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 722
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69405410000000000800000000000000
+      internalID: 21300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_82
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 722
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89405410000000000800000000000000
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_83
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 722
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9405410000000000800000000000000
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d405410000000000800000000000000
+      internalID: 21300436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_85
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 362
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9405410000000000800000000000000
+      internalID: 21300380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_86
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 362
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9405410000000000800000000000000
+      internalID: 21300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_87
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 362
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a405410000000000800000000000000
+      internalID: 21300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_88
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 362
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a405410000000000800000000000000
+      internalID: 21300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_89
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 362
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a405410000000000800000000000000
+      internalID: 21300388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_90
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 362
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a405410000000000800000000000000
+      internalID: 21300390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_91
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 362
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a405410000000000800000000000000
+      internalID: 21300392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_92
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 362
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa405410000000000800000000000000
+      internalID: 21300394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_93
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 362
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca405410000000000800000000000000
+      internalID: 21300396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_94
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 362
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea405410000000000800000000000000
+      internalID: 21300398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_95
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 362
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b405410000000000800000000000000
+      internalID: 21300400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_96
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 362
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b405410000000000800000000000000
+      internalID: 21300402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_97
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 362
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b405410000000000800000000000000
+      internalID: 21300404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d405410000000000800000000000000
+      internalID: 21300438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_99
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b405410000000000800000000000000
+      internalID: 21300406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_100
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b405410000000000800000000000000
+      internalID: 21300408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_101
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab405410000000000800000000000000
+      internalID: 21300410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_102
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb405410000000000800000000000000
+      internalID: 21300412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_103
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb405410000000000800000000000000
+      internalID: 21300414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_104
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c405410000000000800000000000000
+      internalID: 21300416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_105
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c405410000000000800000000000000
+      internalID: 21300418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_106
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c405410000000000800000000000000
+      internalID: 21300420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_107
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c405410000000000800000000000000
+      internalID: 21300422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_108
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c405410000000000800000000000000
+      internalID: 21300424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_109
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 2
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac405410000000000800000000000000
+      internalID: 21300426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_110
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc405410000000000800000000000000
+      internalID: 21300428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO_111
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 2
+        width: 240
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec405410000000000800000000000000
+      internalID: 21300430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UNO_0: 21300216
+      UNO_1: 21300218
+      UNO_10: 21300236
+      UNO_100: 21300408
+      UNO_101: 21300410
+      UNO_102: 21300412
+      UNO_103: 21300414
+      UNO_104: 21300416
+      UNO_105: 21300418
+      UNO_106: 21300420
+      UNO_107: 21300422
+      UNO_108: 21300424
+      UNO_109: 21300426
+      UNO_11: 21300238
+      UNO_110: 21300428
+      UNO_111: 21300430
+      UNO_12: 21300240
+      UNO_13: 21300242
+      UNO_14: 21300244
+      UNO_15: 21300246
+      UNO_16: 21300248
+      UNO_17: 21300250
+      UNO_18: 21300252
+      UNO_19: 21300254
+      UNO_2: 21300220
+      UNO_20: 21300256
+      UNO_21: 21300258
+      UNO_22: 21300260
+      UNO_23: 21300262
+      UNO_24: 21300264
+      UNO_25: 21300266
+      UNO_26: 21300268
+      UNO_27: 21300270
+      UNO_28: 21300272
+      UNO_29: 21300274
+      UNO_3: 21300222
+      UNO_30: 21300276
+      UNO_31: 21300278
+      UNO_32: 21300280
+      UNO_33: 21300282
+      UNO_34: 21300284
+      UNO_35: 21300286
+      UNO_36: 21300288
+      UNO_37: 21300290
+      UNO_38: 21300292
+      UNO_39: 21300294
+      UNO_4: 21300224
+      UNO_40: 21300296
+      UNO_41: 21300298
+      UNO_42: 21300300
+      UNO_43: 21300302
+      UNO_44: 21300304
+      UNO_45: 21300306
+      UNO_46: 21300308
+      UNO_47: 21300310
+      UNO_48: 21300312
+      UNO_49: 21300314
+      UNO_5: 21300226
+      UNO_50: 21300316
+      UNO_51: 21300318
+      UNO_52: 21300320
+      UNO_53: 21300322
+      UNO_54: 21300324
+      UNO_55: 21300326
+      UNO_56: 21300432
+      UNO_57: 21300328
+      UNO_58: 21300330
+      UNO_59: 21300332
+      UNO_6: 21300228
+      UNO_60: 21300334
+      UNO_61: 21300336
+      UNO_62: 21300338
+      UNO_63: 21300340
+      UNO_64: 21300342
+      UNO_65: 21300344
+      UNO_66: 21300346
+      UNO_67: 21300348
+      UNO_68: 21300350
+      UNO_69: 21300352
+      UNO_7: 21300230
+      UNO_70: 21300434
+      UNO_71: 21300354
+      UNO_72: 21300356
+      UNO_73: 21300358
+      UNO_74: 21300360
+      UNO_75: 21300362
+      UNO_76: 21300364
+      UNO_77: 21300366
+      UNO_78: 21300368
+      UNO_79: 21300370
+      UNO_8: 21300232
+      UNO_80: 21300372
+      UNO_81: 21300374
+      UNO_82: 21300376
+      UNO_83: 21300378
+      UNO_84: 21300436
+      UNO_85: 21300380
+      UNO_86: 21300382
+      UNO_87: 21300384
+      UNO_88: 21300386
+      UNO_89: 21300388
+      UNO_9: 21300234
+      UNO_90: 21300390
+      UNO_91: 21300392
+      UNO_92: 21300394
+      UNO_93: 21300396
+      UNO_94: 21300398
+      UNO_95: 21300400
+      UNO_96: 21300402
+      UNO_97: 21300404
+      UNO_98: 21300438
+      UNO_99: 21300406
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
