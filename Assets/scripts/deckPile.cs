@@ -21,7 +21,7 @@ public class deckPile : MonoBehaviour{
     }
     void Update()
     {
-        showCards();
+       // showCards();
     }
     void RemoveCard(object sender, CardEventArg e)
     {
@@ -30,6 +30,17 @@ public class deckPile : MonoBehaviour{
             Destroy(fetchedCards[e.cardIndex]);
             fetchedCards.Remove(e.cardIndex);
         }
+    }
+    public void updateCardView() //TODO:m Can i delete this?
+    {
+        foreach (GameObject i in fetchedCards.Values)
+        {
+            Destroy(i);
+
+        }
+        fetchedCards.Clear();
+        showCards();
+
     }
     void showCards()
     {

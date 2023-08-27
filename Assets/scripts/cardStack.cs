@@ -19,6 +19,13 @@ public class cardStack : MonoBehaviour {
 		
 		}
 	}
+    public int GetaCard()
+    {
+        if(cardCount > 0)
+            return cards[cardCount-1];
+        Debug.LogWarning("Card finished");
+        return -1;
+    }
 
 	public event cardRemovedEventHandler cardRemoved;
 	public int pop(){

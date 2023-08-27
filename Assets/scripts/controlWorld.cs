@@ -26,6 +26,7 @@ public class controlWorld : MonoBehaviour
     public cardStack rival;
     public cardStack deck;
 
+    public deckPile deckStackView;
     public cardStackView playerStackView;
     public cardStackView rivalStackView;
 

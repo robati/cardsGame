@@ -34,8 +34,8 @@ using System.Collections;
         rivalMoved = Time.realtimeSinceStartup;
 
         boolGameOver = false;
-
-        
+        cardLeftView.updateCardView();
+        deckStackView.updateCardView() ;   
     }
    
  public void onClick(int i){
@@ -233,10 +233,12 @@ using System.Collections;
             if (playerSelectCardAfterWild)
             {
                 playerSelectCardAfterWild = false;
-                deck.push(player.pop(eventArg.cardIndex));
+                deck.push(player.pop(eventArg.cardIndex));//TODO:m add deal
                 playerStackView.updateCardView();
+                deckStackView.updateCardView();
+
                 // Debug.Log("line125 in select card player pushed:" + eventArg.cardIndex);
-               // cardchoose = false;
+                // cardchoose = false;
                 return;
             }
             else if ((shift == turn.Player) && (playerTurnFine == false))//?
@@ -249,7 +251,9 @@ using System.Collections;
 
                     dealCard(eventArg.cardIndex, eventArg.pos, cardTargetPos, true, deck, player, new System.Action(() =>
                     {
+                        //Debug.Log("here");
                         playerStackView.updateCardView();
+                        deckStackView.updateCardView();
                         playerTurnFine = true;
                         cardchoose = false;
                     }
@@ -283,9 +287,10 @@ using System.Collections;
                     cardgive = true;
                     // Debug.Log("bede kart");
                     //  int temp = cardLeft.pop(eventArg.cardIndex);
-                    Vector3 cardTargetPos = playerPos + new Vector3(-playerStackView.offset * player.cardCount, 0, 0);
+                    Vector3 cardTargetPos = gameScript.playerTransform.position;// playerPos + new Vector3(-playerStackView.offset * player.cardCount, 0, 0);
                     dealCard(eventArg.cardIndex, eventArg.pos, cardTargetPos, true, player, cardLeft, new System.Action(() =>
                     {
+                       // Debug.Log("now");
                         cardLeftView.updateCardView();
                         playerStackView.updateCardView();
                         playerTurnFine = true;
@@ -355,6 +360,8 @@ using System.Collections;
                         checkCard(deck.playingCard);
                         converseShift();
                         rivalStackView.updateCardView();
+                        deckStackView.updateCardView();
+
                         // Debug.Log(1 + "r did");
                         rivalMoved = Time.realtimeSinceStartup;
                     }
@@ -427,6 +434,8 @@ using System.Collections;
                     dealCard(i, rivalPos, deckPos, true, deck, rival, new System.Action(() =>
                     {
                         rivalStackView.updateCardView();
+                        deckStackView.updateCardView();
+
                         rival_uno = false;
                         notification = "";
                                         // Debug.Log(notification);

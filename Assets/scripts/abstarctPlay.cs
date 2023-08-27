@@ -41,6 +41,7 @@ abstract class abstarctPlay : MonoBehaviour
     protected cardStack rival;
     protected turn shift = turn.Player;
     protected cardStack deck;
+    protected deckPile deckStackView;
     protected cardStackView playerStackView;
     protected cardStackView rivalStackView;
     protected string notification = "Hi!";
@@ -80,6 +81,7 @@ abstract class abstarctPlay : MonoBehaviour
 
         rival = gameScript.rival;
         rivalStackView = gameScript.rivalStackView;
+        deckStackView = gameScript.deckStackView;
         rivalPos = gameScript.rivalTransform.position; //rivalStackView.start;
         playerStackView.setAsPlayerCard(true);
         menu = new Rect(Screen.width*9/10 , Screen.height * 9/10, Screen.width/10, Screen.height/10);
@@ -201,7 +203,7 @@ abstract class abstarctPlay : MonoBehaviour
     }
 
 
-    protected void drawPauseMenu(int windowID)
+    /*protected void drawPauseMenu(int windowID)
     {
         float drUnit = Screen.height / 7;
         float wdrUnit = Screen.width /5;
@@ -245,21 +247,32 @@ abstract class abstarctPlay : MonoBehaviour
             paused = false;
             print("Got a click");
         }
-    }
-    protected  void Draw()
+    }*/
+    protected  void Draw()//TODO:m add onfinnished
     {
+        //int cardIdx = 0;
+        int cardID = cardLeft.GetaCard();
+        Vector3 cardPos = cardLeftView.GetCardPosition(cardID);
+        Debug.Log("Card" + cardPos);
         if (shift == turn.Player)
         {
-            player.push(cardLeft.pop());
-            //dealCard(-2, cardLeftView.start, playerPos, true, player, cardLeft, new System.Action(() =>
-            //     {
-            //     }));
+            //player.push(cardLeft.pop());
+
+            dealCard(cardID, cardPos, gameScript.playerTransform.position, true, player, cardLeft, new System.Action(() =>
+                 {
+                     playerStackView.updateCardView();
+                     cardLeftView.updateCardView();
+                 }));
         }
         else
-             rival.push(cardLeft.pop());
-            //dealCard(-2, cardLeftView.start, rivalPos, true, rival, cardLeft, new System.Action(() =>
-            //{
-            //}));
+        {
+            //  rival.push(cardLeft.pop());
+            dealCard(cardID, cardPos, gameScript.rivalTransform.position, false, rival, cardLeft, new System.Action(() =>
+            {
+                rivalStackView.updateCardView();
+                cardLeftView.updateCardView();
+            }));
+        }
     }
     public  void converseShift()
     {
@@ -289,10 +302,11 @@ abstract class abstarctPlay : MonoBehaviour
         playerSelectCardAfterWild = false;//why is it true!? change it in call back
         //rivalSelectCardAfterWild = false;
         //MoveCardAnimate = true;
-
+        
 
         //cardAnimator cardAnime = card.GetComponent<cardAnimator>();
        // cardTargetPos.z = -2;
+            pushStack.push(temp);
 
         //  moveAnimate(card);//TODO: Temp
         Debug.Log(card.transform.position+" "+cardTargetPos.x+" "+cardTargetPos.y+" "+cardTargetPos.z);
@@ -300,7 +314,7 @@ abstract class abstarctPlay : MonoBehaviour
                                                                                // cardAnime.MoveCard(cardTargetPos, temp, new System.Action(() => {TODO:
            // popStack.pop(idx);
             Destroy(card);
-            pushStack.push(temp);
+
              fin();
                   
         })));
@@ -336,7 +350,7 @@ abstract class abstarctPlay : MonoBehaviour
         //  try{
         while (true)
         {
-            card.transform.position = Vector3.MoveTowards(card.transform.position, cardTargetPos, 1);
+            card.transform.position = Vector3.MoveTowards(card.transform.position, cardTargetPos, 0.6f);
            // Debug.Log("ti");
             yield return new WaitForEndOfFrame();
             if (Vector3.Distance(cardTargetPos, card.transform.position) < 0.5f) {

@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
+using static UnityEditor.PlayerSettings;
 
 [RequireComponent(typeof(cardStack))]
 public class cardStackView : MonoBehaviour {
@@ -30,7 +31,7 @@ public class cardStackView : MonoBehaviour {
 
 	void Update(){
 		//if (lastCount != card_Deck.cardCount) {
-			showCards();
+		//	showCards();
 			//lastCount = card_Deck.cardCount;
 			
 		//}
@@ -91,7 +92,14 @@ public class cardStackView : MonoBehaviour {
             pos = fetchedCards[args.cardIndex].transform.position;//localPosition;
         myEventHandler(this, new StackEventArg(args.cardIndex, pos));
     }
-	void RemoveCard(object sender,CardEventArg e){
+    public Vector3 GetCardPosition(int index)
+    {
+        if (fetchedCards.ContainsKey(index))
+            return fetchedCards[index].transform.position;//localPosition;
+        else return Vector3.zero;
+
+    }
+    void RemoveCard(object sender,CardEventArg e){
 		if (fetchedCards.ContainsKey (e.cardIndex)) {
 				Destroy(fetchedCards[e.cardIndex]);
 				fetchedCards.Remove (e.cardIndex);
