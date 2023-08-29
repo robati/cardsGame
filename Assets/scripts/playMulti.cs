@@ -30,7 +30,11 @@ class playMulti : abstarctPlay
         rivalStackView.myEventHandler += cardChosen;
         playerStackView.myEventHandler += cardChosen;
 
-		boolGameOver = false;					 
+        cardLeftView.updateCardView();
+        deckStackView.updateCardView();
+
+
+        boolGameOver = false;					 
 
     }
     private void Update() {
@@ -118,7 +122,7 @@ class playMulti : abstarctPlay
         Debug.Log("the card on is:" + deck.playingCard);
         if (cardStack.has(eventArg.cardIndex)&&!cardchoose)
         {
-            Debug.Log(playerSelectCardAfterWild + " " + rivalSelectCardAfterWild);
+           // Debug.Log(playerSelectCardAfterWild + " " + rivalSelectCardAfterWild);
 
             if ((playerSelectCardAfterWild && stackOwner == turn.Player) || (rivalSelectCardAfterWild && stackOwner == turn.Rival))
             {
@@ -128,8 +132,12 @@ class playMulti : abstarctPlay
                 Vector3 cardTargetPos = gameScript.deckTransform.position;
 
                 dealCard(eventArg.cardIndex, eventArg.pos, cardTargetPos, true, deck, cardStack, new System.Action(() =>  { 
-                
-                 if (stackOwner == turn.Player)
+                deckStackView.updateCardView();
+                cardStackView.updateCardView();
+
+
+
+                    if (stackOwner == turn.Player)
                     playerSelectCardAfterWild = false;
                 else
                     rivalSelectCardAfterWild = false;
@@ -138,7 +146,6 @@ class playMulti : abstarctPlay
 
 
                 //    deck.push(cardStack.pop(eventArg.cardIndex)); //TODO:m is it right?
-                cardStackView.updateCardView();
 
                 Debug.Log("line125 in select card player pushed:" + eventArg.cardIndex);
                 return;
@@ -160,6 +167,7 @@ class playMulti : abstarctPlay
                             playerTurnFine = true;
                         else
                             rivalTurnFine = true;
+                        deckStackView.updateCardView();
                         cardStackView.updateCardView();
                         cardchoose = false;
                     }
