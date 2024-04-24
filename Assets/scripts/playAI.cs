@@ -436,7 +436,7 @@ using System.Collections;
                         rivalStackView.updateCardView();
                         deckStackView.updateCardView();
 
-                        rival_uno = false;
+                        rival_uno = false;//mmmm
                         notification = "";
                                         // Debug.Log(notification);
 
